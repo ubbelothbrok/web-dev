@@ -72,7 +72,7 @@ body {
 }
 
 .hero {
-  background-image: url("/test/img.gif");
+  background-image: url("./public/img.gif");
   background-repeat: no-repeat;
   height: 700px;
   background-color: #000000bb;
