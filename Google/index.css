@@ -1,0 +1,132 @@
+.body{
+    background-color: white;
+}
+.flex {
+    display: flex;
+    
+  }
+
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+     
+}
+
+.middle{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;   
+    padding-bottom: 30px;   
+}
+.search{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+}
+
+.bottum{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.lastone{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+.blue{
+    background-color: aliceblue;
+}
+.settings{
+
+    display: flex;
+    justify-content: center;
+    
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+     
+}
+
+
+.serach-field{
+    padding: 10px 150px;
+    border: 2px solid #ccc;
+    border-radius: 8px  8px;
+    outline: none;
+    font-size: 16px;
+
+}
+.googlesearch{
+    margin-right: 20px;
+    background-color: azure;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:7px;
+    padding-bottom:7px;
+    border-radius: 3%;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.lucky{
+    margin-right: 20px;
+    background-color: azure;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:7px;
+    padding-bottom:7px;
+    border-radius: 3%;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+
+.about{
+    padding-top:7px;
+    padding-bottom:7px;
+    margin-left: 30px;
+    cursor: pointer;
+    
+}
+.store{
+    padding-top:7px;
+    padding-bottom:7px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.gmail{
+    padding-top:7px;
+    padding-bottom:7px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.image{
+    padding-top:7px;
+    padding-bottom:7px;
+    margin-right: 30px;
+    cursor: pointer;
+}
